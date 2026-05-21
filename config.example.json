@@ -1,0 +1,6 @@
+{
+  "discord_app_id": "YOUR_DISCORD_APP_ID_HERE",
+  "idle_detection": true,
+  "idle_threshold_seconds": 300,
+  "window_detection": true
+}
